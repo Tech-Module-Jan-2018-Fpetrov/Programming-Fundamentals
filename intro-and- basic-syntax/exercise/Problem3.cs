@@ -6,11 +6,15 @@ namespace ConsoleApp11
     {
         static void Main(string[] args)
         { 
+            //Receive from the Console the miles - as double type.
             double miles = double.Parse(Console.ReadLine());
+
+            //Convert miles to kilometers. 
+            //Use the note that 1 mile == 1.60934 km by default! Calculate..
             var kilometers = miles * 1.60934;
 
+            //TODO
             Console.WriteLine("{0:F2}", kilometers);
-
         }
     }
 }
