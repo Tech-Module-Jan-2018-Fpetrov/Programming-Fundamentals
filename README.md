@@ -21,13 +21,7 @@ examples below for the appropriate formatting.
 
 **Input**
 
- 
-
-**Output**
-
- 
-
-12
+ 12
 
 433
 
@@ -35,11 +29,10 @@ examples below for the appropriate formatting.
 
 5331
 
- 
-
+**Output**
 0012 0433 0001 5331
-
  
+**Input**
 
 9182
 
@@ -48,11 +41,11 @@ examples below for the appropriate formatting.
 12
 
 3
-
  
-
+**Output**
 9182 4221 0012 0003
 
+**Input**
  
 
 812
@@ -63,10 +56,11 @@ examples below for the appropriate formatting.
 
 22
 
+**Output**
  
-
 0812 0321 0123 0022
 
+ 
 ### Problem 2.
 Rectangle Area  
 
