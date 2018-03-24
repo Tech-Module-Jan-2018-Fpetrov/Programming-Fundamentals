@@ -30,6 +30,7 @@ examples below for the appropriate formatting.
 5331
 
 **Output**
+
 0012 0433 0001 5331
  
 **Input**
@@ -43,6 +44,7 @@ examples below for the appropriate formatting.
 3
  
 **Output**
+
 9182 4221 0012 0003
 
 **Input**
