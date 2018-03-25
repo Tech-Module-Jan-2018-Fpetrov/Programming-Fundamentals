@@ -1,4 +1,4 @@
-﻿//CONFIRMED from asavova
+﻿//CONFIRMED from <asavova>
 using System;
 
 namespace _02.Rectangle_Area
